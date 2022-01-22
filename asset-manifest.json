@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/thespacecrew/static/css/main.09055387.css",
+    "main.js": "/thespacecrew/static/js/main.661b688d.js",
+    "static/media/Lagus.png": "/thespacecrew/static/media/Lagus.53a3b0322340724f364a.png",
+    "static/media/Kusma.png": "/thespacecrew/static/media/Kusma.22da10619d6d510f5670.png",
+    "static/media/Raida.png": "/thespacecrew/static/media/Raida.b87a35b5bdbf3cfc8412.png",
+    "static/media/Faihu.png": "/thespacecrew/static/media/Faihu.a44e7aa4725c7905fd11.png",
+    "static/media/Urus.png": "/thespacecrew/static/media/Urus.b00521bf85d31d4627bc.png",
+    "static/media/Scloop.png": "/thespacecrew/static/media/Scloop.78300de641406dca1d84.png",
+    "static/media/Manna.png": "/thespacecrew/static/media/Manna.bbd4b71c5383ba176beb.png",
+    "static/media/Horst.png": "/thespacecrew/static/media/Horst.933f5ddae6280c1ff8f0.png",
+    "static/media/Jer.png": "/thespacecrew/static/media/Jer.db020007d9b95977513f.png",
+    "static/media/Bairkan.png": "/thespacecrew/static/media/Bairkan.c08bd27f60c793dbc08e.png",
+    "index.html": "/thespacecrew/index.html",
+    "main.09055387.css.map": "/thespacecrew/static/css/main.09055387.css.map",
+    "main.661b688d.js.map": "/thespacecrew/static/js/main.661b688d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.09055387.css",
+    "static/js/main.661b688d.js"
+  ]
+}
