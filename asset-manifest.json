@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/thespacecrew/static/css/main.09055387.css",
-    "main.js": "/thespacecrew/static/js/main.661b688d.js",
+    "main.js": "/thespacecrew/static/js/main.65ef9c13.js",
     "static/media/Lagus.png": "/thespacecrew/static/media/Lagus.53a3b0322340724f364a.png",
     "static/media/Kusma.png": "/thespacecrew/static/media/Kusma.22da10619d6d510f5670.png",
     "static/media/Raida.png": "/thespacecrew/static/media/Raida.b87a35b5bdbf3cfc8412.png",
@@ -14,10 +14,10 @@
     "static/media/Bairkan.png": "/thespacecrew/static/media/Bairkan.c08bd27f60c793dbc08e.png",
     "index.html": "/thespacecrew/index.html",
     "main.09055387.css.map": "/thespacecrew/static/css/main.09055387.css.map",
-    "main.661b688d.js.map": "/thespacecrew/static/js/main.661b688d.js.map"
+    "main.65ef9c13.js.map": "/thespacecrew/static/js/main.65ef9c13.js.map"
   },
   "entrypoints": [
     "static/css/main.09055387.css",
-    "static/js/main.661b688d.js"
+    "static/js/main.65ef9c13.js"
   ]
 }
